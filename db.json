@@ -1,0 +1,13 @@
+{
+  restaurants: [
+    {
+      name: TTY,
+      dates: [
+        {
+          date: 8.2,
+          weekday: tuesday,
+        }
+      ]
+    }
+  ]
+}
