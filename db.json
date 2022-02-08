@@ -1,11 +1,11 @@
 {
   restaurants: [
     {
-      name: TTY,
+      name: "TTY",
       dates: [
         {
-          date: 8.2,
-          weekday: tuesday,
+          date: "8.2",
+          weekday: "tuesday",
         }
       ]
     }
